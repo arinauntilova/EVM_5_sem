@@ -1,0 +1,15 @@
+body {
+    padding: 30px;
+    background-image: url(fon.jpg); /* Путь к фоновому изображению */
+    /* background-color: #74d1c9; Цвет фона */
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+}
+
+.btn-class {
+    padding: 6px;
+    background: rgb(225, 236, 72);
+    border: 2px solid #80795d; /* Параметры рамки */
+    color: rgb(17, 13, 13);
+    cursor: pointer;
+    display: inline-block;
+}
