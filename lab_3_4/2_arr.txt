@@ -1,0 +1,1 @@
+[{"name":"Anna","age":20,"group":"iu7-56"},{"name":"Kate","age":18,"group":"mt12-21"},{"name":"Polina","age":20,"group":"rk4-43"},{"name":"Tanya","age":21,"group":"iu3-23"},{"name":"Rita","age":23,"group":"rl6-21"},{"name":"Vera","age":19,"group":"sm4-16"}]
